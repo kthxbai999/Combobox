@@ -1,2 +1,2 @@
-# combobox
-its a combobox
+# Combobox
+it's a Combobox in VB.
